@@ -1,2 +1,2 @@
-**:earth_africa: Languages: Lua, Batch, HTML**  
+**:earth_africa: Languages: Luau, Batch, HTML**  
 **:books: Learning: Python, JSON**
