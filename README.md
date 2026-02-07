@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **itzbloxxy**
+# 👋 Hi, I'm **ItzBloxxy**
 I like coding random stuff
 
 ## 🌍 Languages I Use
