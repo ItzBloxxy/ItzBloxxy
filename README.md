@@ -1,2 +1,16 @@
-**:earth_africa: Languages: Lua, Batch, HTML**  
-**:books: Learning: Python and C#**
+# 👋 Hi, I'm **itzbloxxy**
+I like coding random stuff
+
+## 🌍 Languages I Use
+* **Lua**
+* **Python**
+* **C#**
+* **Batch**
+* **HTML**
+
+## 📚 Currently Learning
+* **Python**
+* **C#**
+
+* My pinned repositories are the ones I actively maintain and update
+* They reflect what I’m currently working on and improving!
