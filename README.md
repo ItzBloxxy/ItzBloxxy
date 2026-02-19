@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **ItzBloxxy**
 I like coding random stuff
 
-## 🌍 Languages I Use
+## 🌍 Languages I Use / Know
 * **Lua**
 * **Python**
 * **C#**
