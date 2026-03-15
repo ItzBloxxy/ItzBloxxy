@@ -3,6 +3,7 @@ I like coding random stuff
 
 ## 🌍 Languages I Use / Know
 * **Lua**
+* **Luau**
 * **Python**
 * **C#**
 * **Batch**
