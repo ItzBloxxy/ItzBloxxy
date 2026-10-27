@@ -1,6 +1,7 @@
 I like coding random stuff
 
 My pinned repositories are the ones I actively maintain and update
+- I mostly just work on Bubblestrap and personal projects
 
 They reflect what I’m currently working on and improving!
 
